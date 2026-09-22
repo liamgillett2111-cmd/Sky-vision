@@ -1,0 +1,10 @@
+{
+  "name": "AeroSight - Accessible Sky Radar",
+  "description": "Accessible flight radar and overhead aircraft finder built for TalkBack and blind users. Point your device to the sky to identify passing planes with speech, sonar audio, and haptic feedback.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
